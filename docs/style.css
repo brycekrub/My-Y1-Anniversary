@@ -265,7 +265,7 @@ body {
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: pink;
+    background-color: rgb(11, 134, 58);
     height: 50px;
     width: 50px;
     transform: rotate(-45deg);
