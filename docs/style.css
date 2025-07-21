@@ -88,7 +88,6 @@ button:active {
 .gst {
     width: 100vw;
     height: 72svh;
-    color: #a9745d;
     display: flex;
     flex-flow: column;
     justify-content: center;
@@ -99,7 +98,7 @@ button:active {
     position: relative;
     font-size: 25vw;
     margin: 27px;
-    color: white;
+    color: #a9745d;
     text-align: center;
     margin: 0;
 }
