@@ -74,7 +74,7 @@ button:active {
 .scrlt {
     position: absolute;
     text-align: center;
-    color: #a9745d;
+    color: white;
     left: 50%;
     translate: -50% 0;
     z-index: 100;
