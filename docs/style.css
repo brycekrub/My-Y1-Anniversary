@@ -49,7 +49,7 @@ button:active {
     color: #fff;
 }
 
-@media screen and (max-width: calc((3 / 4) * 100svh)) {
+@media (max-aspect-ratio: 3/4) {
     .responds {
         display: none;
     }
@@ -137,17 +137,16 @@ button:active {
 }
 
 .heart {
-    fill: #ff4d6d; /* สีชมพูแดง */
+    fill: #ff0000;
     position: absolute;
     width: 50px;
     z-index: 10;
 }
 
 .heart2 {
-    fill: #ff4d6d80; /* สีชมพูโปร่งใส (80 = 50% opacity) */
+    fill: #ff000057;
     position: absolute;
     width: 50px;
-    z-index: 5;
 }
 
 .card-hold {
