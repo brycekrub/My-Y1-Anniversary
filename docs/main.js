@@ -21,7 +21,7 @@ gsap.to('.imimg', {
         end: 'bottom top',
         scrub: true,
         snap: true,
-        markers: true,
+        markers: false,
         pin: true
     },
 
