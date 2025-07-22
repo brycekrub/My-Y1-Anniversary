@@ -137,16 +137,17 @@ button:active {
 }
 
 .heart {
-    fill: #ff0000;
+    fill: #ff4d6d; /* สีชมพูแดง */
     position: absolute;
     width: 50px;
     z-index: 10;
 }
 
 .heart2 {
-    fill: #ff000057;
+    fill: #ff4d6d80; /* สีชมพูโปร่งใส (80 = 50% opacity) */
     position: absolute;
     width: 50px;
+    z-index: 5;
 }
 
 .card-hold {
