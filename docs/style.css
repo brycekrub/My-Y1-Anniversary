@@ -98,9 +98,13 @@ button:active {
     position: relative;
     font-size: 25vw;
     margin: 27px;
-    color: 	#4e342e;
+    color: white;
     text-align: center;
     margin: 0;
+}
+
+.sta {
+    color: 	#4e342e;
 }
 
 .img-hold {
