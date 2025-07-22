@@ -136,7 +136,18 @@ button:active {
     align-items: center;
 }
 
+.heart {
+    fill: #ff0000;
+    position: absolute;
+    width: 50px;
+    z-index: 10;
+}
 
+.heart2 {
+    fill: #ff000057;
+    position: absolute;
+    width: 50px;
+}
 
 .card-hold {
     width: 96vw;
