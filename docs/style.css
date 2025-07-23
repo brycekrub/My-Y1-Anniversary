@@ -26,7 +26,7 @@ body {
     position: fixed;
     z-index: 1000;
     width: 100vw;
-    height: 100svh;
+    height: 100dvh;
     display: flex;
     flex-flow: column;
     justify-content: center;
@@ -87,7 +87,7 @@ button:active {
 
 .gst {
     width: 100vw;
-    height: 72svh;
+    height: 72dvh;
     display: flex;
     flex-flow: column;
     justify-content: center;
@@ -116,7 +116,7 @@ button:active {
 .img-hold {
     position: relative;
     width: 100vw;
-    height: 100svh;
+    height: 100dvh;
 }
 
 .imimg {
@@ -130,7 +130,7 @@ button:active {
 .heart-box {
     position: relative;
     width: 100vw;
-    height: 100svh;
+    height: 100dvh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -151,7 +151,7 @@ button:active {
 
 .card-hold {
     width: 96vw;
-    height: 100svh;
+    height: 100dvh;
     overflow: hidden;
     margin: auto;
     box-shadow: 0 0 25px 12px 0 rgb(0, 0, 0);
